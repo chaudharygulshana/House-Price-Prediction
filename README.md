@@ -1,2 +1,20 @@
 # House-Price-Prediction
-MACHINE LEARNING BASED REGRESSION PROJECT
+## MACHINE LEARNING BASED REGRESSION PROJECT
+## Content
+## Overview:
+Buying a home is dream come true for many this is a regression-based house price prediction problem in which having 79 explanatory variables describing almost every aspect of residential homes from the Number of beds, bathrooms, garage to the types of material used every thing is to consider in this Data. trained Machine Learning model with almost every Machine Leaning algorithm and tried to predict the right price of House which helps lots of customers to buy their dream house.![102322739-8a74db80-3fa5-11eb-9c06-5bc912d81c96](https://user-images.githubusercontent.com/97084200/208847971-d5194bff-fcdd-491e-b5e2-bdf05852c3cc.jpg)
+## Motivation:
+Those don't have real world experience in Data Science field, it's very good opportunity to start a work with this type of project, it having lots of Categorical feature, Missing values, Abnormal Data Distribution, giving very good understanding of Exploratory Data Analysis and dataset gives the feel of real world problem.
+## Goal:
+1- Exploratory Data Analysis(EDA) 
+2- Handle Missing Values 
+3- Handle Categorical features 
+4- Apply Transformation Technique's to make Normally Distributed
+5- Feature Selection
+6- Feature Scaling 
+7- Model Selection
+8- Model Training 
+9- Hyperparameter Tuning
+10- Prediction on Test Dataset
+## Source of Dataset:
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques 
